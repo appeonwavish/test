@@ -48,7 +48,7 @@ CtestApp::CtestApp()
 	// format for string is CompanyName.ProductName.SubProduct.VersionInformation
 	SetAppID(_T("test.AppID.NoVersion"));
 
-	fdafdsaf
+	fdafdsaffgsdaf
 
 	// TODO: add construction code here,
 	// Place all significant initialization in InitInstance
